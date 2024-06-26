@@ -1,4 +1,4 @@
-# Mini - Risc - 32-bit RISC Processor Design
+# Mini - RISC - 32-bit RISC Processor Design
 
 ## Overview
 This project implements a custom 32-bit RISC processor, inspired by the MIPS architecture. It was developed as part of the Computer Organization Laboratory course under the guidance of Prof. Indranil Sengupta, Prof. Sarani Bhattacharya, and Prof. Soumyajit Dey.
