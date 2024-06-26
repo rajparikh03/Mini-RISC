@@ -51,7 +51,8 @@ The processor is synthesized and implemented on a Nexys A7-100T FPGA board, demo
 - Xilinx Vivado for FPGA synthesis and implementation
 
 ## Contributors
-[Your Name]
+- Raj Parikh
+- Sukhomay Patra
 
 ## Acknowledgements
 Special thanks to Prof. Indranil Sengupta, Prof. Sarani Bhattacharya, and Prof. Soumyajit Dey for their guidance throughout this project.
